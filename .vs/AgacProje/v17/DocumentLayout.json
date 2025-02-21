@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|c:\\users\\birca\\onedrive\\desktop\\data structures\\yeni klas\u00F6r (2)\\data-structures-project\\binarytree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A781B9-8E60-4770-99D6-85A8B23ECD37}|AgacProje.csproj|solutionrelative:binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree.cs",
+              "ToolTip": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAUwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:00:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAewG8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:00:58.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:00:58.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\birca\\OneDrive\\Desktop\\Data Structures\\Yeni klas\u00F6r (2)\\Data-Structures-Project\\BinaryTree\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:00:58.764Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
